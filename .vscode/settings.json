@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ipynb": "python",
+        "time.h": "c"
+    }
+}
